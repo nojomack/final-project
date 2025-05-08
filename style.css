@@ -41,3 +41,8 @@ button:hover {
   background-color: #555;
   color: white;
 }
+
+.dark-mode {
+  background-color: #222;
+  color: #eee;
+}
